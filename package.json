@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dbpedia-sparql-client": "^0.9.8",
     "hyper-graph-db": "^0.3.4",
     "hyperdiscovery": "^8.0.0",
     "n3": "^1.0.0-beta.1",
