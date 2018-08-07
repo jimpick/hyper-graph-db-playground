@@ -13,6 +13,7 @@
     "hyper-graph-db": "^0.3.4",
     "hyperdiscovery": "^8.0.0",
     "n3": "^1.0.0-beta.1",
-    "random-access-memory": "^3.0.0"
+    "random-access-memory": "^3.0.0",
+    "through2": "^2.0.3"
   }
 }
